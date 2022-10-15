@@ -27,6 +27,6 @@ int totalBugsFound(int totalBugs){
         cout << "All bugs are fixed!" << endl;
         return 1;
     }
-    return INT_MIN - totalBugsFound(totalBugs - 1); //Overflow 😶‍🌫️😶‍🌫️
+    return INT_MIN - totalBugsFound(totalBugs - 1); //😶‍🌫️😶‍🌫️
 }
 ```
