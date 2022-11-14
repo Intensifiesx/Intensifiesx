@@ -1,4 +1,4 @@
-## <p align="center">Hi 👋🏼, I'm Zain Hindi</p>
+## <p align="center">Hi, I'm Zain Hindi</p>
 <p align="center">👻 Computer science student at UNLV passionate about software and game creation 👻</p>
 
 ## Creation 👨‍💻
