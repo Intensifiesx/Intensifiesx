@@ -35,6 +35,12 @@
 </h3>
 <p>Prepare yourself for a riveting experience of block-breaking intensity, where there are dynamic levels, vibrant colors, formidable challenges, and a plethora of additional surprises await. Brace yourself for a captivating journey like no other! Created in Unity.</p>
 <img width="50%" height="50%" src="https://camo.githubusercontent.com/d0d3b996a8481458cf9edca50d6ae93206d6afa2545eca6979cbde5f08c168bb/68747470733a2f2f696d672e697463682e7a6f6e652f615731685a3255764d5459344e6a51344d5338354f544d7a4e4441304c6e42755a773d3d2f6f726967696e616c2f425634356e792e706e67"/>
+<hr>
+<h3>
+    <a href="https://github.com/Intensifiesx/TicTacToe">🎯 Tic-Tac-Toe</a>
+</h3>
+<p>Immerse yourself in a captivating game of Tic-Tac-Toe with a sleek and user-friendly GUI program crafted in C#. Engage in strategic battles, test your skills, and experience the excitement of this timeless game brought to life on your screen. Get ready to embark on an immersive gaming adventure like never before! Created in C#.</p>
+<img width="50%" height="50%" src="https://user-images.githubusercontent.com/55933220/147454961-953889d4-1e10-4c19-afd4-120674732737.png"/>
 
 <!-------------->
 <!----SKILLS---->
