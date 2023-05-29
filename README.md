@@ -1,32 +1,59 @@
-## <p align="center">Hi, I'm Zain Hindi</p>
-<p align="center">👻 Computer science student passionate about software and game creation 👻</p>
+<!-------------->
+<!---HEADER----->
+<!-------------->
+<p align="center">
+    <img width="40%" height="50%" src="https://imgur.com/AHCZ6R2.jpg"/>
+</p>
+<p align="center">
+    <img width="70%" height="80%" src="https://imgur.com/mDEuGsk.jpg"/>
+</p>
 
-## Creation 👨‍💻
-##### 🃏 Match Cards
-[Match Cards](https://github.com/Intensifiesx/MatchCards) is a card flipping game that is completed by matching all cards.
+<!-------------->
+<!---ABOUT ME--->
+<!-------------->
+<h1>About Me</h1>
+<ul>
+    <li>🖥️ Computer Science Student</li>
+    <li>💮 Discord Bot Developer</li>
+    <li>🪩 Game Developer</li>
+    <li>🎮 PC Gamer</li>
+    <li>🥔 Potato</li>
+</ul>
+
+<!-------------->
+<!---PROJECTS--->
+<!-------------->
+<h1>Projects</h1>
+<h3>
+    <a href="https://github.com/Intensifiesx/MatchCards">🃏 Card Matching Game</a>
+</h3>
+<p>Unleash your memory prowess in a captivating card-flipping game. Match all the cards to triumph! Created in C#</p>
+<img width="40%" height="40%" src="https://user-images.githubusercontent.com/55933220/147455154-b00f2b24-24a8-4f64-823c-9893d6d59b87.png"/>
 
 ##### 🟣 Dup Ball
 [Dup Ball](https://github.com/Intensifiesx/DupBall) is an intense block-breaking action with dynamic levels, beautiful colors, challenging aspects, and much much more.
 
-## Tech Stack 💻 
-##### Languages
-![C#](https://img.shields.io/badge/c%23-000.svg?style=for-the-badge&logo=c-sharp&logoColor=purple) 
-![C++](https://img.shields.io/badge/c++-000.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue) 
-![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-000.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+<!-------------->
+<!----SKILLS---->
+<!-------------->
+<h1>Technical Skills & Proficiencies</h1>
+<h4>Relevant Coursework:</h4>
+<ul>
+    <li>📊 Statistics</li>
+    <li>🔢 Discrete Math</li>
+    <li>💾 Data Structures</li>
+    <li>📐 Calculus I & II</li>
+    <li>🔒 Operating Systems</li> 
+    <li>🔬 Computer Organization</li>
+    <li>📚 Computer Science I & II</li>
+    <li>🔢 Computational Linear Algebra</li>
+    <li>🔧 Intro to Systems Programming</li> 
+    <li>🌐 Programming Languages/Concepts</li>
+</ul>
 
-##### Backend
-![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=3C873A) 
-
-##### Package Manager
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-
-```cpp
-int totalBugsFound(int totalBugs){
-    if(totalBugs == 0){
-        cout << "All bugs are fixed!" << endl;
-        return 1;
-    }
-    return INT_MIN - totalBugsFound(totalBugs - 1); //😶‍🌫️😶‍🌫️
-}
-```
+<!-------------->
+<!-----MISC----->
+<!-------------->
+<h1>Misc</h1>
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intensifiesx&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical" />
+<img  src="https://github-readme-stats.vercel.app/api?username=Intensifiesx&show_icons=true&theme=radical"/>
