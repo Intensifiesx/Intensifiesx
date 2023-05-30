@@ -64,5 +64,6 @@
 <!-----MISC----->
 <!-------------->
 <h1>Misc</h1>
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intensifiesx&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical" />
-<img  src="https://github-readme-stats.vercel.app/api?username=Intensifiesx&show_icons=true&theme=radical"/>
+<img src="https://komarev.com/ghpvc/?username=Intensifiesx&color=9F2B68"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Intensifiesx&layout=compact&size_weight=0.5&count_weight=0.5&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=Intensifiesx&show_icons=true&theme=radical"/>
