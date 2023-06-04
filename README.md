@@ -25,16 +25,25 @@
 <!-------------->
 <h1>Projects</h1>
 <h3>
+    <a href="https://github.com/Intensifiesx/GenderPrediction">🔮🚹🚺 ML Gender Prediction</a>
+</h3>
+<p>Experience the power of machine learning for gender prediction. Join us on this exciting journey of unraveling gender prediction complexities and expanding your data-driven knowledge. Created in Python.</p>
+<img width="40%" height="40%" src="https://github.com/Intensifiesx/GenderPrediction/raw/main/output.png"/>
+<!-------------->
+<hr> 
+<h3>
     <a href="https://github.com/Intensifiesx/MatchCards">🃏 Card Matching Game</a>
 </h3>
 <p>Unleash your memory prowess in a captivating card-flipping game. Match all the cards to triumph! Created in C#.</p>
 <img width="40%" height="40%" src="https://user-images.githubusercontent.com/55933220/147455154-b00f2b24-24a8-4f64-823c-9893d6d59b87.png"/>
-<hr>
+<!-------------->
+<hr> 
 <h3>
     <a href="https://github.com/Intensifiesx/DupBall">🟣 Düp Ball</a>
 </h3>
 <p>Prepare yourself for a riveting experience of block-breaking intensity, where there are dynamic levels, vibrant colors, formidable challenges, and a plethora of additional surprises await. Brace yourself for a captivating journey like no other! Created in Unity.</p>
 <img width="50%" height="50%" src="https://camo.githubusercontent.com/d0d3b996a8481458cf9edca50d6ae93206d6afa2545eca6979cbde5f08c168bb/68747470733a2f2f696d672e697463682e7a6f6e652f615731685a3255764d5459344e6a51344d5338354f544d7a4e4441304c6e42755a773d3d2f6f726967696e616c2f425634356e792e706e67"/>
+<!-------------->
 <hr>
 <h3>
     <a href="https://github.com/Intensifiesx/TicTacToe">🎯 Tic-Tac-Toe</a>
