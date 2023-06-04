@@ -15,6 +15,7 @@
 <ul>
     <li>🖥️ Computer Science Student</li>
     <li>💮 Discord Bot Developer</li>
+    <li>🎵 Music Enthusiast</li>
     <li>🪩 Game Developer</li>
     <li>🎮 PC Gamer</li>
     <li>🥔 Potato</li>
