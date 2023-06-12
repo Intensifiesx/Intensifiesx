@@ -56,7 +56,6 @@
 <!----SKILLS---->
 <!-------------->
 <h1>Technical Skills & Proficiencies</h1>
-<h4>Relevant Coursework:</h4>
 <ul>
     <li>📊 Statistics</li>
     <li>🔢 Discrete Math</li>
