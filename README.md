@@ -43,7 +43,7 @@
     <a href="https://github.com/Intensifiesx/DupBall">🟣 Düp Ball</a>
 </h3>
 <p>Prepare yourself for a riveting experience of block-breaking intensity, where there are dynamic levels, vibrant colors, formidable challenges, and a plethora of additional surprises await. Brace yourself for a captivating journey like no other! Created in Unity.</p>
-<img width="50%" height="50%" src="https://camo.githubusercontent.com/d0d3b996a8481458cf9edca50d6ae93206d6afa2545eca6979cbde5f08c168bb/68747470733a2f2f696d672e697463682e7a6f6e652f615731685a3255764d5459344e6a51344d5338354f544d7a4e4441304c6e42755a773d3d2f6f726967696e616c2f425634356e792e706e67"/>
+<img width="50%" height="50%" src="https://camo.githubusercontent.com/dd801a968a3c993c5abaf40421bfc84686b4ac53961b945d048561c2ed1368e9/68747470733a2f2f696d672e697463682e7a6f6e652f615731685a3255764d5459344e6a51344d5338354f544d7a4e4441304c6e42755a773d3d2f6f726967696e616c2f425634356e792e706e67"/>
 <!-------------->
 <hr>
 <h3>
