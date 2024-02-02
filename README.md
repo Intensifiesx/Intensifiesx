@@ -2,9 +2,6 @@
 <!---HEADER----->
 <!-------------->
 <p align="center">
-    <img width="40%" height="50%" src="https://imgur.com/AHCZ6R2.jpg"/>
-</p>
-<p align="center">
     <img width="70%" height="80%" src="https://imgur.com/mDEuGsk.jpg"/>
 </p>
 
