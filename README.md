@@ -18,6 +18,9 @@
     <li>🥔 Potato</li>
 </ul>
 
+
+<h2>Portfolio: https://intensifiesx.github.io/</h2>
+
 <!-------------->
 <!---PROJECTS--->
 <!-------------->
